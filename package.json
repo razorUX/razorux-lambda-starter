@@ -1,0 +1,33 @@
+{
+  "name": "razorux-lambda-starter",
+  "version": "0.0.1",
+  "description": "Starter project for AWS Lambda",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razorUX/razorux-lambda-starter"
+  },
+  "author": "Michoel Samuels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razorUX/razorux-lambda-starter/issues"
+  },
+  "homepage": "https://github.com/razorUX/razorux-lambda-starter#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "@honeybadger-io/js": "^4.8.2",
+    "dotenv": "^16.0.3",
+    "isomorphic-fetch": "^3.0.0",
+    "lodash.get": "^4.4.2",
+    "razorux-js-utils": "^0.0.3"
+  }
+}
