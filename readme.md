@@ -1,7 +1,8 @@
-# SA Israel Payment Gateway
+# razorUX Lambda Starter
 
-[![CI](https://github.com/AnalyzePlatypus/sa-israel-payment-gateway/actions/workflows/test.yml/badge.svg)](https://github.com/AnalyzePlatypus/sa-israel-payment-gateway/actions/workflows/test.yml)
-[![Deploy to Lambda](https://github.com/AnalyzePlatypus/sa-israel-payment-gateway/actions/workflows/deploy.yml/badge.svg)](https://github.com/AnalyzePlatypus/sa-israel-payment-gateway/actions/workflows/deploy.yml)
+
+[![Tests](https://github.com/razorUX/razorux-lambda-starter/actions/workflows/test.yml/badge.svg)](https://github.com/razorUX/razorux-lambda-starter/actions/workflows/test.yml)
+[![Deploy to Lambda](https://github.com/razorUX/razorux-lambda-starter/actions/workflows/deploy.yml/badge.svg)](https://github.com/razorUX/razorux-lambda-starter/actions/workflows/deploy.yml)
 
 ## Development
 
